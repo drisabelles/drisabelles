@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drisabelles
 - 👀 I’m interested in outdoor activities, family and friends gathering and adventures
 - 🌱 I’m currently learning python, java, java script
-- 💞️ I’m looking to collaborate on new projects
+- 💞️ I’m studying Cross-plataform Development and looking to collaborate on new projects
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/drisabelles/)
 
 <!---
