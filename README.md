@@ -2,7 +2,7 @@
 - 🎈 21 anos, brasileira | 21yo, brazilian
 - 🎠 Entusiasta de viagens, comidas e aventuras | Traveling, food and adventure enthusiast
 - 📚 Sempre aprendendo um pouco mais | Always learning a little bit more
-- 💡 Estudando desenvolvimento de software multiplataforma | Studying cross-plataform development 
+- 💡 Estudando desenvolvimento de software multiplataforma | Studying cross-plataform software development 
 
 <div>
   <a href="https://github.com/drisabelles">
