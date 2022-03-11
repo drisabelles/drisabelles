@@ -3,6 +3,7 @@
 - 🎠 Entusiasta de viagens, comidas e aventuras | Traveling, food and adventure enthusiast
 - 📚 Sempre aprendendo um pouco mais | Always learning a little bit more
 - 💡 Estudando desenvolvimento de software multiplataforma | Studying cross-plataform software development 
+- 🚀 Estagiária em desenvolvimento front-end na Sanar | Front-end development intern at Sanar 
 
 <div>
   <a href="https://github.com/drisabelles">
