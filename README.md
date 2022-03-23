@@ -3,23 +3,66 @@
 - 🎠 Entusiasta de viagens, comidas e aventuras | Traveling, food and adventure enthusiast
 - 📚 Sempre aprendendo um pouco mais | Always learning a little bit more
 - 💡 Estudando desenvolvimento de software multiplataforma | Studying cross-plataform software development 
-- 🚀 Estagiária em desenvolvimento front-end na Sanar | Front-end development intern at Sanar 
+- 🚀 Estagiária front-end na Sanar | Front-end intern at Sanar 
 
-<div>
-  <a href="https://github.com/drisabelles">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=drisabelles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drisabelles&layout=compact&langs_count=7&theme=dracula"/>
-</div>  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Belle-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Belle-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Belle-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Belle-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Belle-Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img align="center" alt="Belle-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Belle-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Belle-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</div>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=drisabelles&layout=compact&langs_count=7&theme=dracula&show_icons=true" alt="Status do GitHub" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drisabelles&layout=compact&langs_count=7&theme=dracula&show_icons=true&langs_count=6" alt="Minhas linguagens de programação" />
+</p>
+
+<details>
+  <summary>Linguagens de programação e marcação (clique para expandir)</summary>
+    <p>
+      <div style="display: inline_block">
+        <img align="center" alt="Belle-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        <img align="center" alt="Belle-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+        <img align="center" alt="Belle-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img align="center" alt="Belle-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+        <img align="center" alt="Belle-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+        <img align="center" alt="Belle-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        <img align="center" alt="Belle-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+      </div>
+    </p>
+</details>
+
+<details>
+  <summary>Frameworks, plataformas e bibliotecas (clique para expandir)</summary>
+    <p>
+      <div style="display: inline_block">
+        <img align="center" alt="Belle-Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+        <img align="center" alt="Belle-React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+        <img align="center" alt="Belle-Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+        <img align="center" alt="Belle-Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+        <img align="center" alt="Belle-Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+        <img align="center" alt="Belle-Boot" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img align="center" alt="Belle-Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+        <img align="center" alt="Belle-React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+      </div>
+    </p>
+</details>
+
+<details>
+  <summary>Bancos de dados (clique para expandir)</summary>
+    <p>
+      <div style="display: inline_block">
+        <img align="center" alt="Belle-Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+        <img align="center" alt="Belle-Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+        <img align="center" alt="Belle-Mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+      </div>
+    </p>
+</details>
+
+<details>
+  <summary>Outros (clique para expandir)</summary>
+    <p>
+      <div style="display: inline_block">
+        <img align="center" alt="Belle-Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">
+        <img align="center" alt="Belle-Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
+        <img align="center" alt="Belle-Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+        <img align="center" alt="Belle-Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+      </div>
+    </p>
+</details>
 
 ##
   
