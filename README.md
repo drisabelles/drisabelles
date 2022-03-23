@@ -11,7 +11,7 @@
 </p>
 
 <details>
-  <summary>Linguagens de programação e marcação (clique para expandir)</summary>
+  <summary>Linguagens de programação e marcação | Programming and markup languages  (clique para expandir | click to expand)</summary>
     <p>
       <div style="display: inline_block">
         <img align="center" alt="Belle-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -26,7 +26,7 @@
 </details>
 
 <details>
-  <summary>Frameworks, plataformas e bibliotecas (clique para expandir)</summary>
+  <summary>Frameworks, plataformas e bibliotecas | Frameworks, platforms and libraries (clique para expandir | click to expand)</summary>
     <p>
       <div style="display: inline_block">
         <img align="center" alt="Belle-Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
@@ -42,7 +42,7 @@
 </details>
 
 <details>
-  <summary>Bancos de dados (clique para expandir)</summary>
+  <summary>Bancos de dados | Databases (clique para expandir | click to expand)</summary>
     <p>
       <div style="display: inline_block">
         <img align="center" alt="Belle-Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -53,7 +53,7 @@
 </details>
 
 <details>
-  <summary>Outros (clique para expandir)</summary>
+  <summary>Outros | Others (clique para expandir | click to expand)</summary>
     <p>
       <div style="display: inline_block">
         <img align="center" alt="Belle-Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">
