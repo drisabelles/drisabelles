@@ -64,10 +64,6 @@
     </p>
 </details>
 
-<p align="center">
-  <img alt="Belle's activity graph" src="https://activity-graph.herokuapp.com/graph?username=drisabelles&hide_border=true&theme=dracula">
-</p>
-
 ##
   
 <div> 
