@@ -3,7 +3,7 @@
 - 🎠 Entusiasta de viagens, comidas e aventuras | Traveling, food and adventure enthusiast
 - 📚 Sempre aprendendo um pouco mais | Always learning a little bit more
 - 💡 Estudando desenvolvimento de software multiplataforma | Studying cross-plataform software development 
-- 🚀 Estagiária front-end na Sanar | Front-end intern at Sanar 
+- 🚀 Estagiária front-end na [Sanar](https://posmed.sanarmed.com) | Front-end intern at [Sanar](https://posmed.sanarmed.com) 
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=drisabelles&layout=compact&langs_count=7&theme=dracula&show_icons=true" alt="Status do GitHub" />
