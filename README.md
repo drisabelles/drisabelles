@@ -64,7 +64,9 @@
     </p>
 </details>
 
-[![Isabelles's github activity graph](https://activity-graph.herokuapp.com/graph?username=drisabelles&custom_title=Isabelle's%20activity%20graph&hide_border=true&theme=dracula)](https://github.com/drisabelles/github-readme-activity-graph)
+
+[![Isabelle's github activity graph](https://activity-graph.herokuapp.com/graph?username=drisabelles&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ##
   
