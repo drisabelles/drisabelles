@@ -9,70 +9,48 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drisabelles&layout=compact&langs_count=7&theme=dracula&show_icons=true&langs_count=6" alt="Minhas linguagens de programação" />
 </p>
 
-<details>
-  <summary>Linguagens de programação e marcação | Programming and markup languages  (clique para expandir | click to expand)</summary>
-    <p>
-      <div style="display: inline_block">
-        <img align="center" alt="Belle-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-        <img align="center" alt="Belle-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-        <img align="center" alt="Belle-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img align="center" alt="Belle-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-        <img align="center" alt="Belle-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-        <img align="center" alt="Belle-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-        <img align="center" alt="Belle-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-      </div>
-    </p>
-</details>
-
-<details>
-  <summary>Frameworks, plataformas e bibliotecas | Frameworks, platforms and libraries (clique para expandir | click to expand)</summary>
-    <p>
-      <div style="display: inline_block">
-        <img align="center" alt="Belle-Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-        <img align="center" alt="Belle-React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-        <img align="center" alt="Belle-Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-        <img align="center" alt="Belle-Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
-        <img align="center" alt="Belle-Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-        <img align="center" alt="Belle-Boot" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-        <img align="center" alt="Belle-Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-        <img align="center" alt="Belle-React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-      </div>
-    </p>
-</details>
-
-<details>
-  <summary>Bancos de dados | Databases (clique para expandir | click to expand)</summary>
-    <p>
-      <div style="display: inline_block">
-        <img align="center" alt="Belle-Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-        <img align="center" alt="Belle-Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-        <img align="center" alt="Belle-Mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-      </div>
-    </p>
-</details>
-
-<details>
-  <summary>Outros | Others (clique para expandir | click to expand)</summary>
-    <p>
-      <div style="display: inline_block">
-        <img align="center" alt="Belle-Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">
-        <img align="center" alt="Belle-Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
-        <img align="center" alt="Belle-Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-        <img align="center" alt="Belle-Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-      </div>
-    </p>
-</details>
-
-
-[![Isabelle's github activity graph](https://activity-graph.herokuapp.com/graph?username=drisabelles&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-##
+#### Algumas das tecnologias com as quais já tive contato | Some of the technologies I've had contact with
+![MySQL](https://img.shields.io/badge/mysql-e4d2e4.svg?style=for-the-badge&logo=mysql&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-e4d2e4.svg?style=for-the-badge&logo=mongodb&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-e4d2e4.svg?style=for-the-badge&logo=postgresql&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-e4d2e4.svg?style=for-the-badge&logo=Canva&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-e4d2e4.svg?style=for-the-badge&logo=figma&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-e4d2e4?style=for-the-badge&logo=kaggle&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/bootstrap-e4d2e4.svg?style=for-the-badge&logo=bootstrap&logoColor=black)
+![Django](https://img.shields.io/badge/django-e4d2e4.svg?style=for-the-badge&logo=django&logoColor=black)
+![Expo](https://img.shields.io/badge/expo-e4d2e4?style=for-the-badge&logo=expo&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-e4d2e4.svg?style=for-the-badge&logo=Flutter&logoColor=black)
+![Insomnia](https://img.shields.io/badge/Insomnia-e4d2e4?style=for-the-badge&logo=insomnia&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-e4d2e4?style=for-the-badge&logo=node.js&logoColor=black)
+![React](https://img.shields.io/badge/react-e4d2e4.svg?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/react_native-e4d2e4.svg?style=for-the-badge&logo=react&logoColor=black)
+![Styled Components](https://img.shields.io/badge/styled--components-e4d2e4?style=for-the-badge&logo=styled-components&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-e4d2e4.svg?style=for-the-badge&logo=tailwind-css&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-e4d2e4.svg?style=for-the-badge&logo=npm&logoColor=black)
+![Yarn](https://img.shields.io/badge/yarn-e4d2e4.svg?style=for-the-badge&logo=yarn&logoColor=black)
+![Netlify](https://img.shields.io/badge/netlify-e4d2e4.svg?style=for-the-badge&logo=netlify&logoColor=black)
+![Github Pages](https://img.shields.io/badge/github%20pages-e4d2e4?style=for-the-badge&logo=github&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-e4d2e4.svg?style=for-the-badge&logo=android-studio&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-e4d2e4.svg?style=for-the-badge&logo=jupyter&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-e4d2e4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![C](https://img.shields.io/badge/c-e4d2e4.svg?style=for-the-badge&logo=c&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-e4d2e4.svg?style=for-the-badge&logo=css3&logoColor=black)
+![Dart](https://img.shields.io/badge/dart-e4d2e4.svg?style=for-the-badge&logo=dart&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-e4d2e4.svg?style=for-the-badge&logo=html5&logoColor=black)
+![Java](https://img.shields.io/badge/java-e4d2e4.svg?style=for-the-badge&logo=openjdk&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-e4d2e4.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-e4d2e4?style=for-the-badge&logo=python&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-e4d2e4.svg?style=for-the-badge&logo=typescript&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-e4d2e4.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-e4d2e4.svg?style=for-the-badge&logo=numpy&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-e4d2e4.svg?style=for-the-badge&logo=pandas&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-e4d2e4.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Sequelize](https://img.shields.io/badge/Sequelize-e4d2e4?style=for-the-badge&logo=Sequelize&logoColor=black)
+![Jira](https://img.shields.io/badge/jira-e4d2e4.svg?style=for-the-badge&logo=jira&logoColor=black)
   
+#### Links úteis | Useful links
 <div> 
-<a href="https://discord.gg/bellsussu#9337" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:contato.drisabelles@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/drisabelles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/drisabelles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-e4d2e4?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
 </div>
  
 
