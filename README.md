@@ -5,11 +5,6 @@
 - 📚 Sempre aprendendo um pouco mais | Always learning a little bit more
 - 💡 Estudando desenvolvimento de software multiplataforma | Studying cross-plataform software development 
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=drisabelles&layout=compact&langs_count=7&theme=dracula&show_icons=true" alt="Status do GitHub" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drisabelles&layout=compact&langs_count=7&theme=dracula&show_icons=true&langs_count=6" alt="Minhas linguagens de programação" />
-</p>
-
 #### Algumas das tecnologias com as quais já tive contato | Some of the technologies I've had contact with
 ![MySQL](https://img.shields.io/badge/mysql-e4d2e4.svg?style=for-the-badge&logo=mysql&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-e4d2e4.svg?style=for-the-badge&logo=mongodb&logoColor=black)
