@@ -3,7 +3,7 @@
 - 🎠 Entusiasta de viagens, comidas e aventuras | Traveling, food and adventure enthusiast
 - 🕹️ Super fã de jogos (eletrônicos e de tabuleiro) | Super fan of games (electronic and board)
 - 📚 Sempre aprendendo um pouco mais | Always learning a little bit more
-- 💡 Estudando desenvolvimento de software multiplataforma | Studying cross-plataform software development 
+- 💡 Graduada em desenvolvimento de software multiplataforma | Graduated in cross-plataform software development 
 
 #### Algumas das tecnologias com as quais já tive contato | Some of the technologies I've had contact with
 ![MySQL](https://img.shields.io/badge/mysql-e4d2e4.svg?style=for-the-badge&logo=mysql&logoColor=black)
