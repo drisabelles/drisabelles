@@ -1,5 +1,5 @@
 # Olá! Eu sou a Isabelle
-- 🎈 22 anos, brasileira | 22yo, brazilian
+- 🎈 23 anos, brasileira | 23yo, brazilian
 - 🎠 Entusiasta de viagens, comidas e aventuras | Traveling, food and adventure enthusiast
 - 🕹️ Super fã de jogos (eletrônicos e de tabuleiro) | Super fan of games (electronic and board)
 - 📚 Sempre aprendendo um pouco mais | Always learning a little bit more
