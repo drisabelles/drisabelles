@@ -30,14 +30,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=drisabelles&theme=onedark&margin-w=10&row=1" />
 </div>
-
----
-
-### 🔗 Onde me encontrar | Where to find me
-
-  <a href="https://www.linkedin.com/in/drisabelles" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-e4d2e4?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
  
 <!---
 drisabelles/drisabelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
